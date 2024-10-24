@@ -1,4 +1,4 @@
-# **Simplified Tutorial: Using Multiple Friction Coefficients in PolyFEM Simulations**
+# **Tutorial: Using Multiple Friction Coefficients in PolyFEM Simulations**
 
 ## **Introduction**
 
